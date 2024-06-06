@@ -1,4 +1,8 @@
-## Hi there 👋
+Hello there!
+
+I'm an engineer and computer programmer with knowledge of Java, Python, C, C++, and more.
+
+Check out my projects below!
 
 <!--
 **StardustGogeta/StardustGogeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
